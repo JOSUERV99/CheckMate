@@ -1,0 +1,46 @@
+.App-title{
+  background: #fff;
+  font-size: 45px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.App-header {
+  padding: 10px;
+  text-align: center;
+  background: #000;
+  color: white;
+  font-size: 45px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.App-content {
+  padding: 10px;
+  text-align: center right;
+  background: white;
+  color: black;
+  font-size: 25px;
+  font-family: 'Courier', Courier, monospace;
+}
+
+.App-todo{
+  padding: 10px;
+  text-align: center right;
+  background: white;
+  color: black;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Todo-Check-Btn{
+  background: white;
+}
+
+.App-footer {
+  padding: 10px;
+  text-align: center right;
+  background: #1abc9c;
+  color: white;
+  font-size: 25px;
+  font-family: 'Courier', Courier, monospace;
+}
+
